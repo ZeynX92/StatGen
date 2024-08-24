@@ -1,0 +1,5 @@
+pip~=24.2
+PyQt5~=5.15.11
+qasync~=  0.27.1
+requests~=2.32.3
+setuptools~=63.2.0
